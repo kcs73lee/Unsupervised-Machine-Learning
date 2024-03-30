@@ -1,8 +1,3 @@
 # Unsupervised-Machine-Learning
-Coursework from CU Boulder
 
-The final project can be found here: https://github.com/kcs73lee/Unsupervised-Machine-Learning/blob/main/Week5_Final_Project_Fifa_Unsupervised%20Learning.ipynb
-
-PDF version of final project: https://github.com/kcs73lee/Unsupervised-Machine-Learning/blob/main/Week5_Final_Project_Fifa_Unsupervised%20Learning.pdf
-
-Slides are also available: https://github.com/kcs73lee/Unsupervised-Machine-Learning/blob/main/Fifa_Unsup_ML_Presentation.pptx
+In this project, we analyzed the Fifa world cup dataset to see if teams from the 6 different continents being accurately be clustered and predicted based on features such as home team wins, losses and team rank and to see if home teams actually have an advantage.
